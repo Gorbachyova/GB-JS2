@@ -264,7 +264,7 @@ class CartItem extends Item{
   }
 }
 
-const listContext = {
+const gtlistContext = {
   ProductsList: ProductItem,
   Cart: CartItem
 };
